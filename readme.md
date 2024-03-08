@@ -1,0 +1,1 @@
+estos estilos seran ejecutados con sass,esto son 4 cartas de dragon ball con efecto hover
